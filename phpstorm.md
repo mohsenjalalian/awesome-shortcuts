@@ -30,7 +30,7 @@ find class
 find file
 ```
 
-##### alt + Right or alt Left :
+##### alt + Right or alt + Left :
  
 ```
 switch tabs
