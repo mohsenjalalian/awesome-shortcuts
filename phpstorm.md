@@ -2,96 +2,144 @@
 
 ##### alt + 1 : 
 
-```toggle project sidebar```
+```
+toggle project sidebar
+```
 
 ##### shift + shift :
  
-```search everywhere```
+```
+search everywhere
+```
 
 ##### ctrl + G : 
 
-```go to line```
+```
+go to line
+```
 
 ##### ctrl + N :
  
-```find class```
+```
+find class
+```
 
 ##### ctrl + shift + N :
  
-```find file```
+```
+find file
+```
 
 ##### alt + Right or alt Left :
  
-```switch tabs```
+```
+switch tabs
+```
 
 ##### ctrl + tab :
  
-```switcher```
+```
+switcher
+```
 
 ##### ctrl + F12 :
  
-```list class structures and method and you can search on that```
+```
+list class structures and method and you can search on that
+```
 
 ##### pubf + tab :
  
-```public function```
+```
+public function
+```
 
 ##### prif + tab :
  
-```private function```
+```
+private function
+```
 
 ##### prof + tab :
  
-```protected function```
+```
+protected function
+```
 
 ##### eco :
  
-```echo```
+```
+echo
+```
 
 ##### fore and forek :
  
-```foreach```
+```
+foreach
+```
 
 ##### thr :
  
-```throw```
+```
+throw
+```
   
 ##### ! + tab or html:5 + tab :
  
-```html page structure```
+```
+html page structure
+```
 
 ##### ctrl + alt + shift + l :
  
-```reformat code```
+```
+reformat code
+```
 
 ##### ctrl + c :
  
-```select and copy whole line```
+```
+select and copy whole line
+```
 
 ##### ctrl + x :
  
-```cut whole line```
+```
+cut whole line
+```
 
 ##### ctrl + alt + shift + t :
  
-```refactor```
+```
+refactor
+```
 
 ##### alt + insert :
  
-```generate```
+```
+generate
+```
 
 ##### ctrl + alt + shift + j :
  
-```multiple select of a word```
+```
+multiple select of a word
+```
 
 ##### alt + j :
  
-```select next Occurrence```
+```
+select next Occurrence
+```
 
 ##### alt + F12 :
  
-```terminal```
+```
+terminal
+```
 
 ##### alt + 9 :
  
-```version control```
+```
+version control
+```
