@@ -1,97 +1,97 @@
 # phpstorm-shortcuts
 
-* alt + 1 => 
+##### alt + 1 : 
 
 ```toggle project sidebar```
 
-* shift + shift =>
+##### shift + shift :
  
 ```search everywhere```
 
-* ctrl + G => 
+##### ctrl + G : 
 
 ```go to line```
 
-* ctrl + N =>
+##### ctrl + N :
  
 ```find class```
 
-* ctrl + shift + N =>
+##### ctrl + shift + N :
  
 ```find file```
 
-* alt + Right or alt Left =>
+##### alt + Right or alt Left :
  
 ```switch tabs```
 
-* ctrl + tab =>
+##### ctrl + tab :
  
 ```switcher```
 
-* ctrl + F12 =>
+##### ctrl + F12 :
  
 ```list class structures and method and you can search on that```
 
-* pubf + tab =>
+##### pubf + tab :
  
 ```public function```
 
-* prif + tab =>
+##### prif + tab :
  
 ```private function```
 
-* prof + tab =>
+##### prof + tab :
  
 ```protected function```
 
-* eco =>
+##### eco :
  
 ```echo```
 
-* fore and forek =>
+##### fore and forek :
  
 ```foreach```
 
-* thr =>
+##### thr :
  
 ```throw```
   
-* ! + tab or html:5 + tab =>
+##### ! + tab or html:5 + tab :
  
 ```html page structure```
 
-* ctrl + alt + shift + l =>
+##### ctrl + alt + shift + l :
  
 ```reformat code```
 
-* ctrl + c =>
+##### ctrl + c :
  
 ```select and copy whole line```
 
-* ctrl + x =>
+##### ctrl + x :
  
 ```cut whole line```
 
-* ctrl + alt + shift + t =>
+##### ctrl + alt + shift + t :
  
 ```refactor```
 
-* alt + insert =>
+##### alt + insert :
  
 ```generate```
 
-* ctrl + alt + shift + j =>
+##### ctrl + alt + shift + j :
  
 ```multiple select of a word```
 
-* alt + j =>
+##### alt + j :
  
 ```select next Occurrence```
 
-* alt + F12 =>
+##### alt + F12 :
  
 ```terminal```
 
-* alt + 9 =>
+##### alt + 9 :
  
 ```version control```
