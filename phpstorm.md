@@ -108,6 +108,13 @@ select and copy whole line
 cut whole line
 ```
 
+
+##### ctrl + y :
+ 
+```
+remove whole line
+```
+
 ##### ctrl + alt + shift + t :
  
 ```
@@ -142,4 +149,10 @@ terminal
  
 ```
 version control
+```
+
+##### ctrl + R :
+ 
+```
+replace
 ```
