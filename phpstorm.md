@@ -156,3 +156,16 @@ version control
 ```
 replace
 ```
+
+##### ctrl + Q :
+ 
+```
+document
+```
+
+
+##### alt + up or alt + down :
+ 
+```
+next or prev method
+```
