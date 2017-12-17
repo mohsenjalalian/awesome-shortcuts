@@ -169,3 +169,9 @@ document
 ```
 next or prev method
 ```
+
+##### alt + F4 :
+ 
+```
+close tab
+```
