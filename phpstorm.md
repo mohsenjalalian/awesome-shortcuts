@@ -175,3 +175,9 @@ next or prev method
 ```
 close tab
 ```
+
+##### shift + enter :
+ 
+```
+go next line
+```
