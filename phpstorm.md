@@ -181,3 +181,9 @@ close tab
 ```
 go next line
 ```
+
+##### ctrl + E :
+ 
+```
+recent files
+```
