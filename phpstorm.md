@@ -201,3 +201,21 @@ ctrl + Q
 ```
 alt + up or alt + down
 ```
+
+##### ctrl + F4 :
+ 
+```
+close tab
+```
+
+##### shift + enter :
+ 
+```
+go next line
+```
+
+##### ctrl + E :
+ 
+```
+recent files
+```
