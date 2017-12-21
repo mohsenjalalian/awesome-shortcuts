@@ -1,171 +1,203 @@
 # phpstorm-shortcuts
 
-##### alt + 1 : 
+List of shortcuts
+
+1. [toggle project sidebar](#toggle-project-sidebar)
+1. [search everywhere](#search-everywhere)
+1. [go to line](#go-to-line)
+1. [find class](#find-class)
+1. [find file](#find-file)
+1. [switch tabs](#switch-tabs)
+1. [switcher](#switcher)
+1. [list class structures and method and you can search on that](#list-class-structures-and-method-and-you-can-search-on-that)
+1. [public function](#public-function)
+1. [private function](#private-function)
+1. [protected function](#protected-function)
+1. [echo](#echo)
+1. [foreach](#foreach)
+1. [throw](#throw)
+1. [html page structure](#html-page-structure)
+1. [reformat code](#reformat-code)
+1. [select and copy whole line](#select-and-copy-whole-eline)
+1. [cut whole line](#cut-whole-line)
+1. [remove whole line](#remove-whole-line)
+1. [refactor](#refactor)
+1. [generate](#generate)
+1. [multiple select of a word](#multiple-select-of-a-word)
+1. [select next occurrence](#select-next-occurrence)
+1. [terminal](#terminal)
+1. [version control](#version-control)
+1. [replace](#replace)
+1. [document](#document)
+1. [next or prev method](#next-or-prev-method)
+
+
+##### toggle project sidebar
 
 ```
-toggle project sidebar
+alt + 1
 ```
 
-##### shift + shift :
+##### search everywhere
  
 ```
-search everywhere
+shift + shift
 ```
 
-##### ctrl + G : 
+##### go to line
 
 ```
-go to line
+ctrl + G
 ```
 
-##### ctrl + N :
+##### find class
  
 ```
-find class
+ctrl + N
 ```
 
-##### ctrl + shift + N :
+##### find file
  
 ```
-find file
+ctrl + shift + N
 ```
 
-##### alt + Right or alt + Left :
+##### switch tabs
  
 ```
-switch tabs
+alt + Right or alt + Left
 ```
 
-##### ctrl + tab :
+##### switcher
  
 ```
-switcher
+ctrl + tab
 ```
 
-##### ctrl + F12 :
+##### list class structures and method and you can search on that
  
 ```
-list class structures and method and you can search on that
+ctrl + F12
 ```
 
-##### pubf + tab :
+##### public function
  
 ```
-public function
+pubf + tab
 ```
 
-##### prif + tab :
+##### private function
  
 ```
-private function
+prif + tab
 ```
 
-##### prof + tab :
+##### protected function
  
 ```
-protected function
+prof + tab
 ```
 
-##### eco :
+##### echo
  
 ```
-echo
+eco
 ```
 
-##### fore and forek :
+##### foreach
  
 ```
-foreach
+fore and forek
 ```
 
-##### thr :
+##### throw
  
 ```
-throw
+thr
 ```
   
-##### ! + tab or html:5 + tab :
+##### html page structure
  
 ```
-html page structure
+! + tab or html:5 + tab
 ```
 
-##### ctrl + alt + shift + l :
+##### reformat code
  
 ```
-reformat code
+ctrl + alt + shift + l
 ```
 
-##### ctrl + c :
+##### select and copy whole line
  
 ```
-select and copy whole line
+ctrl + c
 ```
 
-##### ctrl + x :
+##### cut whole line
  
 ```
-cut whole line
+ctrl + x
 ```
 
 
-##### ctrl + y :
+##### remove whole line
  
 ```
-remove whole line
+ctrl + y
 ```
 
-##### ctrl + alt + shift + t :
+##### refactor
  
 ```
-refactor
+ctrl + alt + shift + t
 ```
 
-##### alt + insert :
+##### generate
  
 ```
-generate
+alt + insert
 ```
 
-##### ctrl + alt + shift + j :
+##### multiple select of a word
  
 ```
-multiple select of a word
+ctrl + alt + shift + j
 ```
 
-##### alt + j :
+##### select next occurrence
  
 ```
-select next Occurrence
+alt + j
 ```
 
-##### alt + F12 :
+##### terminal
  
 ```
-terminal
+alt + F12
 ```
 
-##### alt + 9 :
+##### version control
  
 ```
-version control
+alt + 9
 ```
 
-##### ctrl + R :
+##### replace
  
 ```
-replace
+ctrl + R
 ```
 
-##### ctrl + Q :
+##### document
  
 ```
-document
+ctrl + Q
 ```
 
 
-##### alt + up or alt + down :
+##### next or prev method
  
 ```
-next or prev method
+alt + up or alt + down
 ```
