@@ -30,6 +30,9 @@ List of shortcuts
 1. [replace](#replace)
 1. [document](#document)
 1. [next or prev method](#next-or-prev-method)
+1. [close tab](#close-tab)
+1. [go next line](#go-next-line)
+1. [recent files](#recent-files)
 
 
 ##### toggle project sidebar
@@ -202,20 +205,20 @@ ctrl + Q
 alt + up or alt + down
 ```
 
-##### ctrl + F4 :
+##### close tab
  
 ```
-close tab
+ctrl + F4
 ```
 
-##### shift + enter :
+##### go next line
  
 ```
-go next line
+shift + enter
 ```
 
-##### ctrl + E :
+##### recent files
  
 ```
-recent files
+ctrl + E
 ```
