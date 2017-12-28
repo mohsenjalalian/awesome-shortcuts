@@ -33,6 +33,7 @@ List of shortcuts
 1. [close tab](#close-tab)
 1. [go next line](#go-next-line)
 1. [recent files](#recent-files)
+1. [find path](#find-path)
 
 
 ##### toggle project sidebar
@@ -221,4 +222,10 @@ shift + enter
  
 ```
 ctrl + E
+```
+
+##### find path
+ 
+```
+ctrl + shift = F
 ```
