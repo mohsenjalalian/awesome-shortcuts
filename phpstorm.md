@@ -34,6 +34,7 @@ List of shortcuts
 1. [go next line](#go-next-line)
 1. [recent files](#recent-files)
 1. [find path](#find-path)
+1. [find error](#find-error)
 
 
 ##### toggle project sidebar
@@ -228,4 +229,10 @@ ctrl + E
  
 ```
 ctrl + shift = F
+```
+
+##### find error
+ 
+```
+f2
 ```
