@@ -237,7 +237,7 @@ ctrl + shift = F
 ```
 f2
 ```
-##### find error
+##### multi select
  
 ```
 ctrl + alt + shift + mouse click
