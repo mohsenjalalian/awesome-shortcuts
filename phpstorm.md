@@ -2,6 +2,7 @@
 
 List of shortcuts
 
+1. [multi select](#multi-select)
 1. [toggle project sidebar](#toggle-project-sidebar)
 1. [search everywhere](#search-everywhere)
 1. [go to line](#go-to-line)
@@ -235,4 +236,9 @@ ctrl + shift = F
  
 ```
 f2
+```
+##### find error
+ 
+```
+ctrl + alt + shift + mouse click
 ```
