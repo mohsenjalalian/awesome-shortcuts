@@ -36,6 +36,7 @@ List of shortcuts
 1. [recent files](#recent-files)
 1. [find path](#find-path)
 1. [find error](#find-error)
+1. [navigate declaration](#navigate-declaration)
 
 
 ##### toggle project sidebar
@@ -241,4 +242,10 @@ f2
  
 ```
 ctrl + alt + shift + mouse click
+```
+
+##### navigate declaration
+ 
+```
+ctrl + B
 ```
