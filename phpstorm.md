@@ -37,6 +37,7 @@ List of shortcuts
 1. [find path](#find-path)
 1. [find error](#find-error)
 1. [navigate declaration](#navigate-declaration)
+1. [wrap remove](#wrap-remove)
 
 
 ##### toggle project sidebar
@@ -248,4 +249,10 @@ ctrl + alt + shift + mouse click
  
 ```
 ctrl + B
+```
+
+##### wrap remove
+ 
+```
+ctrl + shif + del
 ```
