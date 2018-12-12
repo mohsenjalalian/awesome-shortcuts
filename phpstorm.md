@@ -38,6 +38,8 @@ List of shortcuts
 1. [find error](#find-error)
 1. [navigate declaration](#navigate-declaration)
 1. [wrap remove](#wrap-remove)
+1. [generate constant from value of variable](#generate-constant-from-value-of-variable)
+1. [rename](#rename)
 
 
 ##### toggle project sidebar
@@ -255,4 +257,16 @@ ctrl + B
  
 ```
 ctrl + shif + del
+```
+
+##### generate constant from value of variable
+ 
+```
+ctrl + alt + c
+```
+
+##### rename
+ 
+```
+shift + f6
 ```
