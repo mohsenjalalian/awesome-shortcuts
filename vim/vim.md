@@ -15,3 +15,9 @@
 * use G for going to the end of file
 * use / for searching
 * use . to repeat previous command
+* use :x to save and quit
+* use :q! quit without save
+* use :w to save
+* use :q to quit
+* use u to undo
+* use ctrl + r to redo
