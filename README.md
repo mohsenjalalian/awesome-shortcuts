@@ -1,3 +1,3 @@
 # awesome-shortcuts
 
-* [phpstorm](phpstorm.md)
+* [phpstorm](phpstorm/phpstorm.md)
