@@ -9,3 +9,8 @@
 * use b to jump backwards to the start of a word
 * use 0 for going to the start of line
 * use $ for going to the end of line
+* use * for finding next accurence under cursor
+* use # for finding next privious under cursor
+* use gg for going to the begining of the file
+* use G for going to the end of file
+
