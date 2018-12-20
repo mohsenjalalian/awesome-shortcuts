@@ -7,3 +7,5 @@
 * use w  to jump forwards to the start of a word
 * use e to jump forwards to the end of a word
 * use b to jump backwards to the start of a word
+* use 0 for going to the start of line
+* use $ for going to the end of line
