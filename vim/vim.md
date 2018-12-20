@@ -13,4 +13,5 @@
 * use # for finding next privious under cursor
 * use gg for going to the begining of the file
 * use G for going to the end of file
+* use / for searching
 
