@@ -40,6 +40,7 @@ List of shortcuts
 1. [wrap remove](#wrap-remove)
 1. [generate constant from value of variable](#generate-constant-from-value-of-variable)
 1. [rename](#rename)
+1. [list methods](#methods)
 
 
 ##### toggle project sidebar
@@ -269,4 +270,11 @@ ctrl + alt + c
  
 ```
 shift + f6
+```
+
+
+##### methods
+ 
+```
+ctrl + f12
 ```
