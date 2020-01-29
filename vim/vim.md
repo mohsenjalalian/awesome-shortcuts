@@ -2,9 +2,9 @@
 
 * use ESC for normal mode
 
-use dd to delete a line
+* use dd to delete a line
 
-use dG to delete all content of a file
+* use dG to delete all content of a file
 
 * use h as left arrow
 
