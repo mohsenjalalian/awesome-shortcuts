@@ -47,3 +47,5 @@
 * use u to undo
 
 * use ctrl + r to redo
+
+* use :%d to delete whole content
